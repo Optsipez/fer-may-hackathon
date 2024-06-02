@@ -1,6 +1,6 @@
 # FER May Hakathon Vishesh MoodMatrix
 
-Facial Emotion Detection Hackathon Project, Create a model and test it uing 5 to 10 sec videos to detect emotions 
+Facial Emotion Detection Hackathon Project,
 
 # Facial Emotion Recognition
 
